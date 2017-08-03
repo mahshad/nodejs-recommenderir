@@ -55,10 +55,10 @@ console.log(result)
 <a name="Documents"></a>
 ## Documents
 
-For more information about methods and usage, please visit [Wiki](https://github.com/mahshad/nodejs-recommenderir/wiki) page
+For more information about methods and usage, please visit [Wiki](https://github.com/mahshad/nodejs-recommenderir/wiki) page.
 
 <a name="Methods"></a>
-### Methods
+## Methods
 
  * ingest
  * ingestComment
@@ -89,6 +89,6 @@ For more information about methods and usage, please visit [Wiki](https://github
  * trendLongTime
 
 <a name="Contributing"></a>
-### Contributing
+## Contributing
 
 Pull requests are welcome.
